@@ -39,7 +39,7 @@ if st.button("✨ Generate Story"):
     st.markdown("---")
     st.subheader("📖 Here's your crazy routine:")
     st.write(f"Every morning, I wake up at **{time_of_the_day1}** and start my life-changing routine.")
-    st.write(f"First, I **{verb_ending_in_ing1}** my **{body_part}** to get the blood flowing.")
+    st.write(f"First, I start **{verb_ending_in_ing1}** my **{body_part}** to get the blood flowing.")
     st.write(f"Then, I dunk my face in a bucket of **{liquid}** exactly **{number}** times—refreshing!")
     st.write(f"Next, I grab a **{fruit}** peel and rub it all over my face for that glow.")
     st.write(f"To stay fit, I do some **{exercise}** before I **{verb}** over to the **{place}** for a quick dip.")
