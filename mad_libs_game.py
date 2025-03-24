@@ -5,16 +5,15 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #010b13; 
-    }
-    h1, h3 {
+        background-color: #1e3a5f;  
         text-align: center;
-        color: #ffffff;  
+        color: #ffffff;
     }
     </style>
     """,
     unsafe_allow_html=True
 )
+
 
 
 st.title("🧠 Mad Libs Game")
