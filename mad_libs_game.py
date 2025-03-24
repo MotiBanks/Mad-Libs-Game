@@ -5,11 +5,11 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #d6f0ff;
+        background-color: #0a2540;  
     }
     h1, h3 {
         text-align: center;
-        color: #003049;
+        color: #ffffff;  
     }
     </style>
     """,
