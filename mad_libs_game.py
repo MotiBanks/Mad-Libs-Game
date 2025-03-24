@@ -8,8 +8,11 @@ st.markdown(
         background-color: #1e3a5f;  /* Deep blue */
     }
     h1, h3 {
-        text-align: center;
-        color: #ffffff;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
     }
     label {
         font-size: 1.1rem !important;
