@@ -5,7 +5,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #0a2540;  
+        background-color: #010b13; 
     }
     h1, h3 {
         text-align: center;
